@@ -32,6 +32,7 @@ a:link {
   text-decoration: none;
 }
 
+
 @media screen and (max-width: 750px) {
   .mgam {
     text-align: center;
