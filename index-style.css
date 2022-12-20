@@ -32,6 +32,9 @@ a:link {
   text-decoration: none;
 }
 
+.fa {
+  margin: 3px;
+}
 
 @media screen and (max-width: 750px) {
   .mgam {
